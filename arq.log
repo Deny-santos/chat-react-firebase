@@ -1,0 +1,4 @@
+npm i styled-components react-icons firebase react-firebase-hooks react-facebook-loguin
+better-react-spinkit(para onload) email-validator(valida se o email é valido)
+vai no faribase e cria a autenticação e a criaão do banco de dados > configuração (engrenagem na sidbar)
+role para onde tem 3 opçãoes nom  cdn e  config, escolha config
